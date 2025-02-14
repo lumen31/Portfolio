@@ -788,7 +788,7 @@ button {
 .compétences{
   color: white;
   margin-top: 10%;
-  text-align: center;
+  text-align: center; 
 }
 .progressbar-wrapper {
   background-color: #dfe6e9;
