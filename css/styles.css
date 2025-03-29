@@ -752,11 +752,14 @@ button:hover {
 }
 
 .texte-portfolio {
-    /* Ne dépasse pas la taille d'origine */
-    width: 50px;      /* Taille par défaut */
-    height: 100px;      /* Garde les proportions */
-  color: white;
   text-align: center;
+}
+
+.texte-portfolio img {
+    width: 100px;  /* Ajuste la taille de l'image */
+    height: auto;  /* Garde les proportions */
+    display: block; /* Pour éviter les espaces étranges */
+    margin: 10px auto; /* Centre l'image */
 }
 
 .texte-informatique {
