@@ -757,7 +757,7 @@ button:hover {
 
 .texte-portfolio img {
     width: 100px;  /* Ajuste la taille de l'image */
-    height: auto;  /* Garde les proportions */
+    height: 200px;  /* Garde les proportions */
     display: block; /* Pour éviter les espaces étranges */
     margin: 10px auto; /* Centre l'image */
 }
