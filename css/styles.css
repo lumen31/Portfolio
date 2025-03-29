@@ -752,15 +752,14 @@ button:hover {
 }
 
 .texte-portfolio {
-  text-align: center;
-}
-
-.texte-portfolio img {
-    width: 100px;  /* Ajuste la taille de l'image */
+  width: 100px;  /* Ajuste la taille de l'image */
     height: 200px;  /* Garde les proportions */
     display: block; /* Pour éviter les espaces étranges */
     margin: 10px auto; /* Centre l'image */
+  text-align: center;
 }
+
+
 
 .texte-informatique {
 
