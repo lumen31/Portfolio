@@ -756,7 +756,7 @@ button:hover {
     width: 50px;      /* Taille par défaut */
     height: 100px;      /* Garde les proportions */
   color: white;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .texte-informatique {
