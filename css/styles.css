@@ -3886,7 +3886,7 @@ textarea.form-control-lg {
   display: block;
 }
 .navbar-nav {
-  color: blue;
+  color: #0a28ff;
 }
 
 .navbar {
@@ -10987,7 +10987,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/fond.jpeg");
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/linux.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
