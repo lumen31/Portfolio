@@ -752,9 +752,9 @@ button:hover {
 }
 
 .texte-portfolio {
-  max-width: 50%;  /* Ne dépasse pas la taille d'origine */
-    width: 100px;      /* Taille par défaut */
-    height: auto;      /* Garde les proportions */
+    /* Ne dépasse pas la taille d'origine */
+    width: 50px;      /* Taille par défaut */
+    height: 100px;      /* Garde les proportions */
   color: white;
   text-align: center;
 }
