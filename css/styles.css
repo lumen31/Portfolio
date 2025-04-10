@@ -750,6 +750,18 @@ button:hover {
   margin-left: 35rem;
 }
 
+.texte-informatique {
+
+  padding: 10px; /* Espace intérieur entre le texte et la bordure */
+  width: 150px; /* Largeur de la zone de texte */
+  background-color: #dfe0e1; /* Couleur de fond */
+  width: 35%;
+  position: absolute;
+  border-radius: 10px;
+  top: 140%;
+  margin-left: 55rem;
+}
+
 .texte-portfolio {
   width: 100px;  /* Ajuste la taille de l'image */
     height: 200px;  /* Garde les proportions */
@@ -775,17 +787,7 @@ button:hover {
 
 
 
-.texte-informatique {
 
-  padding: 10px; /* Espace intérieur entre le texte et la bordure */
-  width: 150px; /* Largeur de la zone de texte */
-  background-color: #dfe0e1; /* Couleur de fond */
-  width: 35%;
-  position: absolute;
-  border-radius: 10px;
-  top: 140%;
-  margin-left: 63rem;
-}
 
 
 button {
