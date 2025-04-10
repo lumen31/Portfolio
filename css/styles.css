@@ -596,11 +596,12 @@ progress {
 }
 
 .img-cv {
-  width: 400px;
-  height: 700px;
+ width: 300px; /* taille réduite */
+  height: auto; /* pour garder les proportions */
+  display: block;
+  margin: 0 auto; /* centrage horizontal */
   position: relative;
-  top: 55%;
-  left: 10%;
+  top: 50px; /* au lieu de 55%, fixe une valeur selon ton besoin */
   z-index: 1;
 }
 
