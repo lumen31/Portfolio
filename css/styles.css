@@ -596,7 +596,7 @@ progress {
 }
 
 .img-cv {
-  width: 300px;
+  width: 500px;
   height: auto;
   border-radius: 12px; /* coins arrondis pour plus de style */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* ombre légère */
