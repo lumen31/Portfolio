@@ -596,14 +596,12 @@ progress {
 }
 
 .img-cv {
- width: 300px; /* taille réduite */
-  height: auto; /* pour garder les proportions */
-  display: block;
-  margin: 0 auto; /* centrage horizontal */
-  position: relative;
-  top: 50px; /* au lieu de 55%, fixe une valeur selon ton besoin */
-  z-index: 1;
+  width: 300px;
+  height: auto;
+  border-radius: 12px; /* coins arrondis pour plus de style */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* ombre légère */
 }
+
 
 .img-cvbis {
   width: 50%;
@@ -757,7 +755,7 @@ button:hover {
     height: 200px;  /* Garde les proportions */
     display: block; /* Pour éviter les espaces étranges */
     margin: 10px auto; /* Centre l'image */
-  text-align: center;
+  text-align: justify;
 }
 
 .portfolio-colonne {
